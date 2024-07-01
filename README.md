@@ -1,1 +1,1 @@
-[# .github](https://otraorg.github.io/)
+https://otraorg.github.io/
